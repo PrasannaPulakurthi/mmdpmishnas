@@ -1,4 +1,4 @@
-## Enhancing GANs with MMD Neural Architecture Search, PMish Activation Function, and Adaptive Rank Decomposition [[Code]](https://github.com/PrasannaPulakurthi/MMD-NAS-Plus)
+## Enhancing GANs with MMD Neural Architecture Search, PMish Activation Function, and Adaptive Rank Decomposition [[Code]](https://github.com/PrasannaPulakurthi/MMD-NAS-Plus) [[Website]](https://prasannapulakurthi.github.io/mmdnasplus/)
 
 by [Prasanna Reddy Pulakurthi](https://prasannapulakurthi.com/), [Majid Rabbani](https://www.rit.edu/directory/mxreee-majid-rabbani), [Mahsa Mozaffari](https://mahsamozaffari.com/), [Sohail Dianat](https://www.rit.edu/directory/sadeee-sohail-dianat), [Jamison Heard](https://www.rit.edu/directory/jrheee-jamison-heard), and [Raghuveer Rao](https://ieeexplore.ieee.org/author/37281258600).
 
