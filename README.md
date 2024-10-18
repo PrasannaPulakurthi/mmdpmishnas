@@ -3,7 +3,6 @@
 by [Prasanna Reddy Pulakurthi](https://prasannapulakurthi.com/), [Mahsa Mozaffari](https://mahsamozaffari.com/), [Sohail Dianat](https://www.rit.edu/directory/sadeee-sohail-dianat), [Jamison Heard](https://www.rit.edu/directory/jrheee-jamison-heard), [Raghuveer Rao](https://ieeexplore.ieee.org/author/37281258600), and [Majid Rabbani](https://www.rit.edu/directory/mxreee-majid-rabbani).
 
 ## Image Generation Results
-![All Visual Results](assets/Sec6_Results/Cifar10_Classified.png)
 
 | CIFAR-10 | CelebA |
 | :---: | :---: |
