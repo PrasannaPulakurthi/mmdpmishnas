@@ -22,6 +22,22 @@ by [Prasanna Reddy Pulakurthi](https://prasannapulakurthi.com/), [Mahsa Mozaffar
 |<img src="assets/Sec3A_Loss/training_animation_R2.gif" title="Small Upper Bound"/> | <img src="assets/Sec3A_Loss/training_animation_R8.gif" title="Large Upper Bound" /> | <img src="assets/Sec3A_Loss/training_animation_R2_8.gif" title="Increasing Upper Bound"/> |
 
 ## Parametric Mish (PMish) Activation Function
+This is an implementation of the **PMish Activation** function using PyTorch. It combines the `Tanh` and `Softplus` functions with a learnable parameter, `beta`
+
+```python
+import torch
+import torch.nn as nn
+
+class PMishActivation(nn.Module): 
+    def __init__(self): 
+        super(PMishActivation, self).__init__() 
+        self.beta = nn.Parameter(torch.ones(1).type(torch.cuda.FloatTensor))  # Learnable parameter beta
+        self.tanh_fn = nn.Tanh()
+        self.softplus_fn = nn.Softplus()
+        
+    def forward(self, x): 
+        return x * self.tanh_fn((1 / self.beta) * self.softplus_fn(self.beta * x))
+```
 
 | PMish | First-Order Derivative | Second-Order Derivative |
 | :---: | :---: | :---: |
