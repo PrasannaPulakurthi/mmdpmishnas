@@ -1,5 +1,5 @@
 title: Enhancing GANs with MMD Neural Architecture Search, PMish Activation Function and Adaptive Rank Decomposition
-description: MMD-NAS-Plus
+description: MMD-PMish-NAS
 google_analytics:
 remote_theme: pages-themes/cayman@v0.2.0
 plugins: 
