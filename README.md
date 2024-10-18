@@ -11,7 +11,7 @@ by [Prasanna Reddy Pulakurthi](https://prasannapulakurthi.com/), [Mahsa Mozaffar
 
 | CIFAR100 | STL-10 |
 | :---: | :---: |
-| <img src="assets/Sec6_Results/Cifar100_Grid.png" title="CIFAR-100" /> | <img src="assets/Sec6_Results/STL10_Grid.png" title="STL-10"/> |
+| <img src="assets/Sec6_Results/Cifar100_Grid.png" title="CIFAR-100" style="width:100%;"/> | <img src="assets/Sec6_Results/STL10_Grid.png" title="STL-10" style="width:100%;"/> |
 
 ## Architecture
 ![Architecture](assets/Sec3B_Arch/Arch.png)
