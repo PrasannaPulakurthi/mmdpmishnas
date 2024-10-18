@@ -10,6 +10,11 @@ by [Prasanna Reddy Pulakurthi](https://prasannapulakurthi.com/), [Mahsa Mozaffar
 |<img src="assets/Sec6_Results/Cifar10_Grid.png" title="CIFAR-10"/> | <img src="assets/Sec6_Results/CelebA_Grid.png" title="CelebA"/> |
 |<img src="assets/Sec6_Results/Cifar10_Grid.png" title="CIFAR-10"/> |
 
+| CIFAR-10 | CelebA |
+| :---: | :---: |
+| <img src="assets/Sec6_Results/Cifar10_Grid.png" title="CIFAR-10"/> <br> <img src="assets/Sec6_Results/Cifar10_Grid.png" title="CIFAR-10"/> | <img src="assets/Sec6_Results/CelebA_Grid.png" title="CelebA"/> |
+
+
 | CIFAR100 | STL-10 |
 | :---: | :---: |
 | <img src="assets/Sec6_Results/Cifar100_Grid.png" title="CIFAR-100" /> | <img src="assets/Sec6_Results/STL10_Grid.png" title="STL-10"/> |
