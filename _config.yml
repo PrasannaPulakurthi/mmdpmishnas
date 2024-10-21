@@ -1,6 +1,6 @@
-title: Enhancing GANs with MMD Neural Architecture Search, PMish Activation Function and Adaptive Rank Decomposition
-description: MMD-PMish-NAS
-google_analytics: 329784504
+title: MMD-PMish-NAS
+description: IEEE ACCESS
+google_analytics: 
 remote_theme: pages-themes/cayman@v0.2.0
 plugins: 
 - jekyll-remote-theme # add this line to the plugins list if you already have one
