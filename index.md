@@ -3,6 +3,7 @@ This is the official website for the paper "Enhancing GANs with MMD Neural Archi
 by [Prasanna Reddy Pulakurthi](https://prasannapulakurthi.com/), [Mahsa Mozaffari](https://mahsamozaffari.com/), [Sohail Dianat](https://www.rit.edu/directory/sadeee-sohail-dianat), [Jamison Heard](https://www.rit.edu/directory/jrheee-jamison-heard), [Raghuveer Rao](https://ieeexplore.ieee.org/author/37281258600), and [Majid Rabbani](https://www.rit.edu/directory/mxreee-majid-rabbani).
 
 ## Image Generation Results
+
 | CIFAR-10 (32x32) | CelebA (64x64) |
 | :---: | :---: |
 | <img src="assets/Sec6_Results/Cifar10_Classified.png" title="CIFAR-10"/> <br> <img src="assets/Sec6_Results/Cifar10_Grid.png" title="CIFAR-10"/> | <img src="assets/Sec6_Results/CelebA_Grid.png" title="CelebA"/> |
