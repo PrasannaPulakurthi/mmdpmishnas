@@ -47,3 +47,18 @@ class PMishActivation(nn.Module):
 | Small Upper Bound | Large Upper Bound | Increasing Upper Bound (Proposed) |
 | :---: | :---: | :---: |
 |<img src="assets/Sec3A_Loss/training_animation_R2.gif" title="Small Upper Bound"/> | <img src="assets/Sec3A_Loss/training_animation_R8.gif" title="Large Upper Bound" /> | <img src="assets/Sec3A_Loss/training_animation_R2_8.gif" title="Increasing Upper Bound"/> |
+
+## Citation
+Please consider citing our paper in your publications if it helps your research. The following is a BibTeX reference.
+```bibtex
+@ARTICLE{10732016,
+  author={Pulakurthi, Prasanna Reddy and Mozaffari, Mahsa and Dianat, Sohail and Heard, Jamison and Rao, Raghuveer and Rabbani, Majid},
+  journal={IEEE Access}, 
+  title={Enhancing GANs with MMD Neural Architecture Search, PMish Activation Function and Adaptive Rank Decomposition}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-1},
+  keywords={Generative adversarial networks;Training;Generators;Image coding;Acute respiratory distress syndrome;Tensors;Standards;Neural networks;Image synthesis;Adaptive systems;Activation Function;Generative Adversarial Network;Maximum Mean Discrepancy;Neural Architecture Search;Tensor Decomposition},
+  doi={10.1109/ACCESS.2024.3485557}}
+```
