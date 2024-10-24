@@ -12,6 +12,11 @@ by [Prasanna Reddy Pulakurthi](https://prasannapulakurthi.com/), [Mahsa Mozaffar
 | :---: | :---: |
 | <img src="assets/Sec6_Results/Cifar100_Grid.png" title="CIFAR-100" /> | <img src="assets/Sec6_Results/STL10_Grid.png" title="STL-10"/> |
 
+
+**Overview of the Paper:** This research enhances Generative Adversarial Networks (GANs) by introducing a novel Parametric Mish (PMish) activation function, MMD-GAN repulsive loss incorporated neural architecture search strategy, and an adaptive rank decomposition method for network compression. The study improves GAN performance and stability with Modified MMD-GAN repulsive loss, demonstrating significant results on datasets like CIFAR-10, CIFAR-100, STL-10, and CelebA. Key contributions include the introduction of the PMish activation function, modified MMD-GAN rep loss, training strategy, and efficient model compression using ARD for deployment on resource-constrained devices.
+
+![Graphical Abstract](assets/Graphical_Abstract_IEEE_ACCESS.png)
+
 ## Parametric Mish (PMish) Activation Function
 This is an implementation of the **PMish Activation** function using PyTorch. It combines the `Tanh` and `Softplus` functions with a learnable parameter, `beta`.
 
@@ -60,5 +65,4 @@ Please consider citing our paper in your publications if it helps your research.
   keywords={Generative adversarial networks;Training;Generators;Image coding;Acute respiratory distress syndrome;Tensors;Standards;Neural networks;Image synthesis;Adaptive systems;Activation Function;Generative Adversarial Network;Maximum Mean Discrepancy;Neural Architecture Search;Tensor Decomposition},
   doi={10.1109/ACCESS.2024.3485557}}
 ```
-
 
