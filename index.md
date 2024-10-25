@@ -3,6 +3,11 @@ title: "Enhancing GANs with MMD Neural Architecture Search, PMish Activation Fun
 description: "by Prasanna Reddy Pulakurthi, Mahsa Mozaffari, Sohail Dianat, Jamison Heard, Raghuveer Rao, and Majid Rabbani."
 ---
 
+## Overview
+This research enhances Generative Adversarial Networks (GANs) by introducing three key innovations: the Parametric Mish (PMish) activation function, a neural architecture search strategy that integrates MMD-GAN repulsive loss, and an adaptive rank decomposition (ARD) method for model compression. Additionally, it improves the reliability of GAN convergence through a modified MMD-GAN repulsive loss. Our approach achieves notable results on various datasets while maintaining a minimal computational footprint. The primary contributions include the PMish activation function, the enhanced MMD-GAN repulsive loss, an optimized training strategy, and the ARD-based compression technique, which enables efficient deployment on resource-constrained devices.
+
+![Graphical Abstract](assets/Graphical_Abstract_IEEE_ACCESS.png)
+
 ## Image Generation Results
 
 | CIFAR-10 (32x32) | CelebA (64x64) |
@@ -12,11 +17,6 @@ description: "by Prasanna Reddy Pulakurthi, Mahsa Mozaffari, Sohail Dianat, Jami
 | CIFAR100 (32x32) | STL-10 (48x48) |
 | :---: | :---: |
 | <img src="assets/Sec6_Results/Cifar100_Grid.png" title="CIFAR-100" /> | <img src="assets/Sec6_Results/STL10_Grid.png" title="STL-10"/> |
-
-
-**Overview of the Paper:** This research enhances Generative Adversarial Networks (GANs) by introducing a novel Parametric Mish (PMish) activation function, MMD-GAN repulsive loss incorporated neural architecture search strategy, and an adaptive rank decomposition method for network compression. The study improves GAN performance and stability with Modified MMD-GAN repulsive loss, demonstrating significant results on datasets like CIFAR-10, CIFAR-100, STL-10, and CelebA. Key contributions include the introduction of the PMish activation function, modified MMD-GAN rep loss, training strategy, and efficient model compression using ARD for deployment on resource-constrained devices.
-
-![Graphical Abstract](assets/Graphical_Abstract_IEEE_ACCESS.png)
 
 ## Parametric Mish (PMish) Activation Function
 This is an implementation of the **PMish Activation** function using PyTorch. It combines the `Tanh` and `Softplus` functions with a learnable parameter, `beta`.
