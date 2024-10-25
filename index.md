@@ -1,3 +1,8 @@
+---
+title: "Enhancing GANs with MMD Neural Architecture Search, PMish Activation Function, and Adaptive Rank Decomposition"
+description: "by Prasanna Reddy Pulakurthi, Mahsa Mozaffari, Sohail Dianat, Jamison Heard, Raghuveer Rao, and Majid Rabbani."
+---
+
 ## Image Generation Results
 
 | CIFAR-10 (32x32) | CelebA (64x64) |
