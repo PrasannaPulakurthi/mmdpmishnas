@@ -71,4 +71,3 @@ Please consider citing our paper in your publications if it helps your research.
   keywords={Generative adversarial networks;Training;Generators;Image coding;Acute respiratory distress syndrome;Tensors;Standards;Neural networks;Image synthesis;Adaptive systems;Activation Function;Generative Adversarial Network;Maximum Mean Discrepancy;Neural Architecture Search;Tensor Decomposition},
   doi={10.1109/ACCESS.2024.3485557}}
 ```
-
