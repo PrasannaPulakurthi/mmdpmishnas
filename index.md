@@ -4,7 +4,7 @@ description: "by Prasanna Reddy Pulakurthi, Mahsa Mozaffari, Sohail Dianat, Jami
 ---
 
 ## Overview
-This research enhances Generative Adversarial Networks (GANs) by introducing three key innovations: the Parametric Mish (PMish) activation function, a neural architecture search strategy that integrates MMD-GAN repulsive loss, and an adaptive rank decomposition (ARD) method for model compression. Additionally, it improves the reliability of GAN convergence through a modified MMD-GAN repulsive loss. Our approach achieves notable results on various datasets while maintaining a minimal computational footprint. The primary contributions include the PMish activation function, the enhanced MMD-GAN repulsive loss, an optimized training strategy, and the ARD compression technique, which enables efficient deployment on resource-constrained devices.
+This research enhances Generative Adversarial Networks (GANs) by introducing three key innovations: the Parametric Mish (PMish) activation function, a neural architecture search strategy that integrates MMD-GAN repulsive loss into the AdversarialNAS framework, and an adaptive rank decomposition (ARD) method for model compression. Additionally, it improves the reliability of GAN convergence through a modified MMD-GAN repulsive loss. Our approach achieves notable results on various datasets while maintaining a minimal computational footprint. The primary contributions include the PMish activation function, the enhanced MMD-GAN repulsive loss, an optimized training strategy, and the ARD compression technique, which enables efficient deployment on resource-constrained devices.
 
 ![Graphical Abstract](assets/Graphical_Abstract_IEEE_ACCESS.png)
 
