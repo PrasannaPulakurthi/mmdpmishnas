@@ -51,6 +51,7 @@ By visualizing the output landscape of a 5-layered neural network using differen
 ![Architecture](assets/Sec3B_Arch/Arch.png)
 
 ## Training Strategy
+In the bounded MMD-GAN repulsive loss, a fixed upper bound is not optimal for determining the optimal solution. A small upper bound constricts real samples close to each other, hindering the generator from learning fine-level details. Conversely, a very large upper bound results in a large gradient to the generator, making the training unstable and leading to suboptimal performance. Therefore, this study proposes that the upper bound progressively increases when performance saturation is observed. 
 
 | Small Upper Bound | Large Upper Bound | Increasing Upper Bound (Proposed) |
 | :---: | :---: | :---: |
