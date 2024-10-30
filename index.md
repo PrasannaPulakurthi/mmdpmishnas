@@ -19,7 +19,7 @@ This research enhances Generative Adversarial Networks (GANs) by introducing thr
 | <img src="assets/Sec6_Results/Cifar100_Grid.png" title="CIFAR-100" /> | <img src="assets/Sec6_Results/STL10_Grid.png" title="STL-10"/> |
 
 ## Parametric Mish (PMish) Activation Function
-Activation functions are pivotal in determining the GAN's performance. The proposed Parametric Mish (PMish) activation function incorporates learnable parameters that allow dynamic adjustment of the function’s smoothness and responsiveness during training. This enables each activation layer to find an optimal balance between linearity and non-linearity, which is crucial for capturing complex and nuanced data distributions in image generation.
+The proposed Parametric Mish (PMish) activation function incorporates learnable parameters that allow dynamic adjustment of the function’s smoothness and responsiveness during training. This enables each activation layer to find an optimal balance between linearity and non-linearity, which is crucial for capturing complex and nuanced data distributions in image generation.
 
 This is an implementation of the **PMish Activation** function using PyTorch. It combines the `Tanh` and `Softplus` functions with a learnable parameter, `beta`.
 
