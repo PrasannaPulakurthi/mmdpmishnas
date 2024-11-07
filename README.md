@@ -20,7 +20,7 @@ This research enhances Generative Adversarial Networks (GANs) by introducing thr
 ## Parametric Mish (PMish) Activation Function
 Activation functions are essential in machine learning because they help models learn complex patterns in data. Popular ones like ReLU have a fixed shape, which might not always be optimal for every task. To solve this, we’ve developed a new activation function called Parametric Mish (PMish).
 
-PMish stands out because it has built-in parameters that can adjust its shape as the model trains. This means it can change how smooth or sharp it is, finding the best fit for the task it's working on. By adopting this activation function during training, each activation layer can strike the right balance between linear and non-linear, crucial for capturing complex and nuanced data distributions in image generation.
+PMish stands out because it has built-in parameters that can adjust its shape as the model trains. This means it can change how smooth or sharp it is, finding the best fit for the task it's working on. By adopting this activation function during training, each activation layer can strike the right balance between linear and non-linear, which is crucial for capturing complex and nuanced data distributions in image generation.
 
 This is an implementation of the **PMish Activation** function using PyTorch. It combines the `Tanh` and `Softplus` functions with a learnable parameter, `beta`.
 
