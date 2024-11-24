@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/PrasannaPulakurthi/mmdpmishnas/blob/main/assets/visualize_sampled_images.gif">   
+</p>
+
 ---
 title: "Enhancing GANs with MMD Neural Architecture Search, PMish Activation Function, and Adaptive Rank Decomposition"
 description: "by Prasanna Reddy Pulakurthi, Mahsa Mozaffari, Sohail Dianat, Jamison Heard, Raghuveer Rao, and Majid Rabbani."
