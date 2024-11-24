@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://github.com/PrasannaPulakurthi/mmdpmishnas/blob/main/assets/visualize_sampled_images.gif">   
+  <img src="assets/visualize_sampled_images.gif">   
 </p>
+
+
 
 ## Enhancing GANs with MMD Neural Architecture Search, PMish Activation Function, and Adaptive Rank Decomposition [[Paper]](https://ieeexplore.ieee.org/document/10732016) [[Code]](https://github.com/PrasannaPulakurthi/MMD-NAS-Plus) [[Website]](https://prasannapulakurthi.github.io/mmdpmishnas/) 
 
