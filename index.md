@@ -4,7 +4,7 @@ description: "by Prasanna Reddy Pulakurthi, Mahsa Mozaffari, Sohail Dianat, Jami
 ---
 
 <p align="center">
-  <img src="https://github.com/PrasannaPulakurthi/mmdpmishnas/blob/main/assets/visualize_sampled_images.gif">   
+  <img src="assets/visualize_sampled_images.gif">   
 </p>
 
 ## Overview
