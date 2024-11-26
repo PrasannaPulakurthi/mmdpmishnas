@@ -3,11 +3,7 @@ title: "Enhancing GANs with MMD Neural Architecture Search, PMish Activation Fun
 description: "by Prasanna Reddy Pulakurthi, Mahsa Mozaffari, Sohail Dianat, Jamison Heard, Raghuveer Rao, and Majid Rabbani."
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nLZP-yI-SZI" 
-        title="YouTube video player" frameborder="0" 
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-        allowfullscreen>
-</iframe>
+[![YouTube Video](https://img.youtube.com/vi/nLZP-yI-SZI/0.jpg)](https://www.youtube.com/watch?v=nLZP-yI-SZI)
 
 ## Overview
 This research enhances Generative Adversarial Networks (GANs) by introducing three key innovations: the **Parametric Mish (PMish)** activation function, a neural architecture search strategy that integrates **MMD-GAN repulsive loss** into the **AdversarialNAS** framework, and the **Adaptive Rank Decomposition (ARD)** method for model compression. Additionally, it improves the reliability of GAN convergence through a **Modified MMD-GAN repulsive loss**. Our approach achieves notable results on various datasets while maintaining a minimal computational footprint. The primary contributions include the **PMish activation function**, the **Modified MMD-GAN repulsive loss**, an optimized **training strategy**, and the **ARD** compression technique, which enables efficient deployment on resource-constrained devices.
